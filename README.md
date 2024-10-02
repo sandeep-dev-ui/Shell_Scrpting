@@ -1,2 +1,2 @@
 # Shell_scrpting
-This is to learn shell Scripting 
+This is to learn bash scrpting.
