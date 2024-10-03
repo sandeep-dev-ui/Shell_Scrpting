@@ -8,3 +8,6 @@ This is to learn bash scrpting.
 
 $ git clone repoURL.git      ; clones or download the repository from GitHUb
 $ git add fileName  or   git add .  ; git will start tracking all the changes that you made 
+...
+
+# This to test without the bash
